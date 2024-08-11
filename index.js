@@ -51,6 +51,6 @@ app.patch("/chat/:id/edit",async(req,res)=>{
 })
 
 
-app.listen(3000,()=>{
-    console.log("server runing...")
+app.listen(8080,()=>{
+    console.log("server runing on port 800...")
 })
