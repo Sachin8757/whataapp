@@ -13,7 +13,7 @@
     background-color: #131313;
     color: white;
     width: 400px;
-    height: 595px;
+    height: 610px;
    
   }
   .heder{
@@ -45,7 +45,7 @@
   .msg input{
     width: 300px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 12px;
     margin-top: 11px;
     border-radius: 20px;
     background: transparent;
