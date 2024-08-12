@@ -12,13 +12,13 @@
     flex-direction: column; */
     background-color: #131313;
     color: white;
-    width: 410px;
-    height: 520px;
+    width: 400px;
+    height: 595px;
    
   }
   .heder{
     background-color: #332f2f;
-    width: 410px;
+    width: 400px;
     height: 55px;
     display: flex;
     flex-direction: row;
@@ -40,7 +40,7 @@
   .msg{
     background-color:transparent;
     height: 50px;
-    width: 410px;
+    width: 400px;
   }
   .msg input{
     width: 300px;

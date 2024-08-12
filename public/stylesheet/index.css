@@ -16,7 +16,7 @@
   }
   .heder{
     background-color: #332f2f;
-    width: 410px;
+    width: 400px;
     height: 70px;
   }
   .heder h1{
@@ -28,7 +28,7 @@
     flex-direction: column;
     background-color: #131313;
     color: white;
-    width: 410px;
+    width: 400px;
     height: 840px;
    
   }
