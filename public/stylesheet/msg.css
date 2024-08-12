@@ -16,6 +16,9 @@
     height: 610px;
    
   }
+  .main{
+    height: 715px;
+  }
   .heder{
     background-color: #332f2f;
     width: 400px;
@@ -39,8 +42,9 @@
   }
   .msg{
     background-color:transparent;
-    height: 25px;
+    height: 50px;
     width: 400px;
+    
   }
   .msg input{
     width: 300px;
