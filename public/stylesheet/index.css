@@ -5,15 +5,16 @@
   }
   body{
     background-color: #332f2f;
+    color: white;
   }
-  .main{
+  /* .main{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: white;
     
-  }
+  } */
+
   .heder{
     background-color: #332f2f;
     width: 400px;
@@ -60,7 +61,7 @@
 .btnas{
  font-size: 40px;
  cursor: pointer;
- position: absolute;
- left: 500px;
+ position:fixed;
+ left: 310px;
  top: 500px;
 }
